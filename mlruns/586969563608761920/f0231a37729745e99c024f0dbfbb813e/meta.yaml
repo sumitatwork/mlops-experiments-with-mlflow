@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Echo/Desktop/MLOps/mlops-experiments-with-mlflow/mlruns/586969563608761920/f0231a37729745e99c024f0dbfbb813e/artifacts
+end_time: 1739297135063
+entry_point_name: ''
+experiment_id: '586969563608761920'
+lifecycle_stage: active
+run_id: f0231a37729745e99c024f0dbfbb813e
+run_name: luxuriant-horse-851
+run_uuid: f0231a37729745e99c024f0dbfbb813e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739297134770
+status: 3
+tags: []
+user_id: Echo

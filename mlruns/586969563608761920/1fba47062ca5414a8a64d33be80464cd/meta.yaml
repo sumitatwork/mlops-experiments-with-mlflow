@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Echo/Desktop/MLOps/mlops-experiments-with-mlflow/mlruns/586969563608761920/1fba47062ca5414a8a64d33be80464cd/artifacts
+end_time: 1739297134753
+entry_point_name: ''
+experiment_id: '586969563608761920'
+lifecycle_stage: active
+run_id: 1fba47062ca5414a8a64d33be80464cd
+run_name: delightful-cat-516
+run_uuid: 1fba47062ca5414a8a64d33be80464cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739297134625
+status: 3
+tags: []
+user_id: Echo

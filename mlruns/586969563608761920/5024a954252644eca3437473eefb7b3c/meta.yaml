@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Echo/Desktop/MLOps/mlops-experiments-with-mlflow/mlruns/586969563608761920/5024a954252644eca3437473eefb7b3c/artifacts
+end_time: 1739297144786
+entry_point_name: ''
+experiment_id: '586969563608761920'
+lifecycle_stage: active
+run_id: 5024a954252644eca3437473eefb7b3c
+run_name: unleashed-snake-532
+run_uuid: 5024a954252644eca3437473eefb7b3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739297127060
+status: 3
+tags: []
+user_id: Echo

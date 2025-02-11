@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739297886294
+current_stage: None
+description: ''
+last_updated_timestamp: 1739297886294
+name: Sumit-Model-1
+run_id: 5024a954252644eca3437473eefb7b3c
+run_link: ''
+source: file:///C:/Users/Echo/Desktop/MLOps/mlops-experiments-with-mlflow/mlruns/586969563608761920/5024a954252644eca3437473eefb7b3c/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Echo/Desktop/MLOps/mlops-experiments-with-mlflow/mlruns/586969563608761920/5024a954252644eca3437473eefb7b3c/artifacts/random_forest
+user_id: null
+version: 1

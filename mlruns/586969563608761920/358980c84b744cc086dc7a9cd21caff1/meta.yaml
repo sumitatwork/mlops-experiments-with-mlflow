@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Echo/Desktop/MLOps/mlops-experiments-with-mlflow/mlruns/586969563608761920/358980c84b744cc086dc7a9cd21caff1/artifacts
+end_time: 1739297134346
+entry_point_name: ''
+experiment_id: '586969563608761920'
+lifecycle_stage: active
+run_id: 358980c84b744cc086dc7a9cd21caff1
+run_name: able-kit-159
+run_uuid: 358980c84b744cc086dc7a9cd21caff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739297134281
+status: 3
+tags: []
+user_id: Echo

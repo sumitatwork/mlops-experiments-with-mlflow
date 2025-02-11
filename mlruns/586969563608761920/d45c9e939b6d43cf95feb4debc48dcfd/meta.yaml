@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Echo/Desktop/MLOps/mlops-experiments-with-mlflow/mlruns/586969563608761920/d45c9e939b6d43cf95feb4debc48dcfd/artifacts
+end_time: 1739297135566
+entry_point_name: ''
+experiment_id: '586969563608761920'
+lifecycle_stage: active
+run_id: d45c9e939b6d43cf95feb4debc48dcfd
+run_name: kindly-grub-208
+run_uuid: d45c9e939b6d43cf95feb4debc48dcfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739297135449
+status: 3
+tags: []
+user_id: Echo
