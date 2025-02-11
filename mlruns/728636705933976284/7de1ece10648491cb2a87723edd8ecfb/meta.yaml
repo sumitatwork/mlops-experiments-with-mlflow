@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/728636705933976284/7de1ece10648491cb2a87723edd8ecfb/artifacts
+end_time: 1739293553442
+entry_point_name: ''
+experiment_id: '728636705933976284'
+lifecycle_stage: active
+run_id: 7de1ece10648491cb2a87723edd8ecfb
+run_name: funny-fox-425
+run_uuid: 7de1ece10648491cb2a87723edd8ecfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739293547729
+status: 3
+tags: []
+user_id: Echo
